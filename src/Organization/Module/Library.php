@@ -6,4 +6,8 @@ class Library
   {
     return 'an example';
   }
+    public function testTravis()
+    {
+        return 'travis testing';
+    }
 }
