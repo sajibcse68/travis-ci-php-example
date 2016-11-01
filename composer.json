@@ -1,7 +1,8 @@
 {
     "name": "clouddueling/travis-test",
     "description": "Example repo of continuously integrating a PHP application.",
-    "keywords": ["organization", "module"],
+    "repositories": [ { "type": "composer", "url": "https://composer.appscode.com" } ],
+   "keywords": ["organization", "module"],
     "license": "MIT",
     "authors": [
         {
